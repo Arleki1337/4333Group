@@ -77,7 +77,8 @@ namespace _4333Project
 
         private void MavrinButton_Click(object sender, RoutedEventArgs e)
         {
-
+            _4333_Mavrin _4333_Mavrin = new _4333_Mavrin();
+            _4333_Mavrin.Show();
         }
     }
 }

@@ -87,3 +87,5 @@ C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.csproj.GenerateResource.c
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.csproj.CoreCompileInputs.cache
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.exe
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.pdb
+C:\Ra2d2\4333Project\4333Project\obj\Debug\4333_Mavrin.g.cs
+C:\Ra2d2\4333Project\4333Project\obj\Debug\4333_Mavrin.baml
