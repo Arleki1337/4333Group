@@ -1,46 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Ra2d2\\4333Project\\",
+  "WorkspaceRootPath": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\4333_mavrin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_mavrin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\4333_mavrin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333project\\4333_mavrin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_mavrin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333project\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333project\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\users\\arle\\source\\3333333333333\\.git\\4333project\\4333project\\customdateformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\customdateformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\4333_loparev.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_loparev.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_pavlova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_pavlova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_mustafina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_mustafina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\users\\arle\\source\\3333333333333\\.git\\4333project\\4333project\\4333_mavrin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_mavrin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,66 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Clients.cs",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\Clients.cs",
-              "RelativeDocumentMoniker": "4333Project\\Clients.cs",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\Clients.cs",
-              "RelativeToolTip": "4333Project\\Clients.cs",
-              "ViewState": "AgIAAAgAAADwMjMzM7MiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:38:35.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\Model1.edmx",
-              "RelativeDocumentMoniker": "4333Project\\Model1.edmx",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "4333Project\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-21T12:37:52.89Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "4333_Mavrin.xaml.cs",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mavrin.xaml.cs",
-              "RelativeDocumentMoniker": "4333Project\\4333_Mavrin.xaml.cs",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mavrin.xaml.cs",
-              "RelativeToolTip": "4333Project\\4333_Mavrin.xaml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAADgv2cAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:47:06.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "4333_Loparev.xaml.cs",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Loparev.xaml.cs",
-              "RelativeDocumentMoniker": "4333Project\\4333_Loparev.xaml.cs",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Loparev.xaml.cs",
-              "RelativeToolTip": "4333Project\\4333_Loparev.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:47:03.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "4333_Mavrin.xaml",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mavrin.xaml",
+              "DocumentMoniker": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\4333_Mavrin.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_Mavrin.xaml",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mavrin.xaml",
+              "ToolTip": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\4333_Mavrin.xaml",
               "RelativeToolTip": "4333Project\\4333_Mavrin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-21T11:45:43.429Z",
@@ -117,63 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "4333_Mustafina.xaml",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mustafina.xaml",
-              "RelativeDocumentMoniker": "4333Project\\4333_Mustafina.xaml",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mustafina.xaml",
-              "RelativeToolTip": "4333Project\\4333_Mustafina.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T16:26:51.067Z",
+              "DocumentIndex": 3,
+              "Title": "CustomDateFormatConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\CustomDateFormatConverter.cs",
+              "RelativeDocumentMoniker": "4333Project\\CustomDateFormatConverter.cs",
+              "ToolTip": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\CustomDateFormatConverter.cs",
+              "RelativeToolTip": "4333Project\\CustomDateFormatConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:11:39.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "4333_Pavlova.xaml",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Pavlova.xaml",
-              "RelativeDocumentMoniker": "4333Project\\4333_Pavlova.xaml",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Pavlova.xaml",
-              "RelativeToolTip": "4333Project\\4333_Pavlova.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T16:26:45.492Z",
+              "DocumentIndex": 2,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\Clients.cs",
+              "RelativeDocumentMoniker": "4333Project\\Clients.cs",
+              "ToolTip": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\Clients.cs",
+              "RelativeToolTip": "4333Project\\Clients.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:38:35.126Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\Model1.edmx",
+              "RelativeDocumentMoniker": "4333Project\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "4333Project\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-21T12:37:52.89Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "4333Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml",
-              "RelativeToolTip": "4333Project\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T16:22:52.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "4333Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml.cs",
-              "RelativeToolTip": "4333Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAD8AAACAzMzMzAwnwEgAAAAJAAAAAAAAAA==",
+              "Title": "4333_Mavrin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\4333_Mavrin.xaml.cs",
+              "RelativeDocumentMoniker": "4333Project\\4333_Mavrin.xaml.cs",
+              "ToolTip": "C:\\Users\\ARLE\\source\\3333333333333\\.git\\4333Project\\4333Project\\4333_Mavrin.xaml.cs",
+              "RelativeToolTip": "4333Project\\4333_Mavrin.xaml.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwIIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T16:31:51.677Z",
+              "WhenOpened": "2025-03-21T11:47:06.172Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "RelativeDocumentMoniker": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "RelativeToolTip": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T05:49:46.971Z"
             }
           ]
         }

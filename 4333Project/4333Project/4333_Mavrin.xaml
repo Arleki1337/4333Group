@@ -14,20 +14,21 @@
                    FontWeight="Bold"
                    Foreground="Pink"/>
 
-
-        <Button Content="Импорт данных" 
-                HorizontalAlignment="Center" 
-                VerticalAlignment="Center"
-                Width="150" Height="40" 
-                Margin="0,70,0,0"
-                Click="ImportClientsData_Click"/>
-
-
-        <Button Content="Экспорт в Excel" 
-                HorizontalAlignment="Center" 
+    
+        <!-- Новая кнопка Импорт из JSON -->
+        <Button Content="Импорт из JSON" 
+                HorizontalAlignment="Left" 
                 VerticalAlignment="Top"
                 Width="150" Height="40" 
-                Margin="0,302,0,0"
-                Click="ExportClientsToExcel_Click"/>
+                Margin="517,158,0,0"
+                Click="ImportJsonData_Click"/>
+
+        <!-- Новая кнопка Экспорт в Word -->
+        <Button Content="Экспорт в Word" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top"
+                Width="150" Height="40" 
+                Margin="517,232,0,0"
+                Click="ExportDataToWord_Click"/>
     </Grid>
 </Window>
