@@ -89,3 +89,9 @@ C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.exe
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.pdb
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333_Mavrin.g.cs
 C:\Ra2d2\4333Project\4333Project\obj\Debug\4333_Mavrin.baml
+C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project.csproj.ResolveComReference.cache
+C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Project_Content.g.cs
+C:\Ra2d2\4333Project\4333Project\bin\Debug\EntityFramework.dll
+C:\Ra2d2\4333Project\4333Project\bin\Debug\EntityFramework.xml
+C:\Ra2d2\4333Project\4333Project\bin\Debug\ru\EntityFramework.resources.dll
+C:\Ra2d2\4333Project\4333Project\obj\Debug\4333Proj.2A5B7193.Up2Date

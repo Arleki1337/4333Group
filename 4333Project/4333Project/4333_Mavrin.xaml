@@ -9,9 +9,25 @@
     <Grid>
         <TextBlock Text="Радий, 8 лет UwU" 
                    HorizontalAlignment="Center" 
-                   VerticalAlignment="Center"
+                   VerticalAlignment="Top"
                    FontSize="36"
                    FontWeight="Bold"
                    Foreground="Pink"/>
+
+
+        <Button Content="Импорт данных" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"
+                Width="150" Height="40" 
+                Margin="0,70,0,0"
+                Click="ImportClientsData_Click"/>
+
+
+        <Button Content="Экспорт в Excel" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Top"
+                Width="150" Height="40" 
+                Margin="0,302,0,0"
+                Click="ExportClientsToExcel_Click"/>
     </Grid>
 </Window>
