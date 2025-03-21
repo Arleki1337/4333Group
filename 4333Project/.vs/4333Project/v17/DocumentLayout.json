@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\",
+  "WorkspaceRootPath": "C:\\Ra2d2\\4333Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\users\\89046\\desktop\\isrpo\\-\\4333project\\4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\ra2d2\\4333project\\4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333project\\4333_mustafina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_mustafina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_mustafina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333project\\4333_pavlova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\Ra2d2\\4333Project\\4333project\\4333_pavlova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_pavlova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "4333_Mustafina.xaml",
-              "DocumentMoniker": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_Mustafina.xaml",
+              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mustafina.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_Mustafina.xaml",
-              "ToolTip": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_Mustafina.xaml",
+              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Mustafina.xaml",
               "RelativeToolTip": "4333Project\\4333_Mustafina.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-04T16:26:51.067Z"
@@ -47,9 +47,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "4333_Pavlova.xaml",
-              "DocumentMoniker": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_Pavlova.xaml",
+              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Pavlova.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_Pavlova.xaml",
-              "ToolTip": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_Pavlova.xaml",
+              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_Pavlova.xaml",
               "RelativeToolTip": "4333Project\\4333_Pavlova.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-04T16:26:45.492Z"
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4333Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml",
               "RelativeToolTip": "4333Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-04T16:22:52.777Z"
@@ -69,11 +69,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4333Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4333Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwEEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAA8wEEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T16:31:51.677Z",
               "EditorCaption": ""
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "DocumentMoniker": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "DocumentMoniker": "C:\\Ra2d2\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
-              "ToolTip": "C:\\Users\\89046\\Desktop\\ISRPO\\-\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "ToolTip": "C:\\Ra2d2\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
               "RelativeToolTip": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-29T05:49:46.971Z"

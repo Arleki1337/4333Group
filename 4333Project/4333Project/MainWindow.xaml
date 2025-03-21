@@ -36,6 +36,7 @@
         <Button Width="100" Grid.Row="7" Background="BlueViolet" Click="Button_Click_1"  >8</Button>
         <Button Width="100" Content="12" x:Name="DanilaBaton" Grid.Row="11" Background="LightSalmon" Click="DanilaBaton_Click"/>
         <Button Width="100" Content="13" x:Name="EgorButton" Grid.Row="12" Background="Blue" Click="EgorButton_Click"/>
+        <Button Width="100" Content="14" x:Name="MavrinButton" Grid.Row="14" Background="Purple" Click="MavrinButton_Click"/>
         <Button Width="100" Content="17" x:Name="_4333_Mustafina" Grid.Row="16" Background="Crimson" Click="_4333_Mustafina_Click"/>
         <Button Width="100" Content="18" x:Name="Pavlova4333" Grid.Row="17" Background="Aqua" Click="Pavlova4333_Click"/>
         <Button x:Name="ButtonDana" Grid.Row="21"  Content="22"   VerticalAlignment="Top" Click="ButtonDana_Click" Background="#FFF277FF" Width="100"/>

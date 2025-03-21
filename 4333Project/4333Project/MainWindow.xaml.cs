@@ -74,5 +74,10 @@ namespace _4333Project
             _4333_Pavlova _4333_Pavlova = new _4333_Pavlova();
             _4333_Pavlova.Show();
         }
+
+        private void MavrinButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
